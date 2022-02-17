@@ -1,4 +1,4 @@
-- API
+- API(/guides/)
 
-  - [Camera Shake](camerashake.md)
-  - [Axle Voiceline](axlevoiceline.md)
+  - [Camera Shake](/guides/camerashake.md)
+  - [Axle Voiceline](/guides/axlevoiceline.md)
