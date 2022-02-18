@@ -2,7 +2,7 @@ WaitForTouchTrigger is a function that stops the scripted sequence until the des
 
 ## Arguments
 
-> **Object: ** Trigger/Part as touching source
+> **Object:** Trigger/Part as touching source
 
 ## Examples
 
